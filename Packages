@@ -13,7 +13,6 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Architecture: iphoneos-arm64
 Version: 116.0
 Installed-Size: 668
-
 Filename: ./pool/ai.akemi.appsyncunified_116.0_iphoneos-arm64.deb
 Size: 49472
 MD5sum: d6a31911e878b83e47c6525fa29ecef1
@@ -32,7 +31,6 @@ Section: Tweak Injection
 Priority: optional
 Icon: https://ellekit.space/logos/logo.png
 Description: ElleKit tweak injection libraries and loader
-
 Filename: ./pool/ellekit_7e3f92f_iphoneos-arm64.deb
 Size: 341868
 MD5sum: 42ccf53df615d06d2ee3004a99d11337
