@@ -1,0 +1,17 @@
+Origin: ERP Local Repo
+Label: ERP Local
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: iphoneos-arm64
+Components: main
+Description: Local repo: AppSync Unified + ElleKit (official builds)
+
+MD5Sum:
+ 2ef30fe0800413e7704bb96df60ea929 2276 main/binary-iphoneos-arm64/Packages
+ 4bed4e0926cc4387a2e567b067e37a24 1145 main/binary-iphoneos-arm64/Packages.bz2
+ 473b55e4ba65e6a6b00bb16037670c76 1039 main/binary-iphoneos-arm64/Packages.gz
+SHA256:
+ 419e295dbf43ce0b5815ccaa4d7754f536fa765992ea4a18c3d209445028e7f6 2276 main/binary-iphoneos-arm64/Packages
+ 4804ca2c3fcf9ff320f3b991b5bdaced05a2e7f9131c3f6ccccc4652cb4c81ac 1145 main/binary-iphoneos-arm64/Packages.bz2
+ 78606a42130e8d76b9e3eb11c2338571884d15cb84434fc6870c286f2760e2f2 1039 main/binary-iphoneos-arm64/Packages.gz
