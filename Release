@@ -1,0 +1,25 @@
+Architectures: iphoneos-arm64
+Codename: erplocal
+Components: main
+Date: Mon, 02 Nov 2026 20:18:50 +0000
+Description: Local repo: AppSync Unified + ElleKit
+Label: ERP Local
+Origin: ERP Local
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 2f065ad81e9bdd1e3ef5857dde27139f 2280 Packages
+ 40eefb502f15382942b1d5ecf8cdfd6d 1151 Packages.bz2
+ 9006e9303a6317c29c5f1701a75aa2e6 1041 Packages.gz
+SHA1:
+ 21ac439b1b55dd9abddd48f489505ed71221be89 2280 Packages
+ c9ba56faa5df5e4d32536306a2f9a494dd00566c 1151 Packages.bz2
+ 15349be781d11ad8b7426a7020611e4876ca0995 1041 Packages.gz
+SHA256:
+ babb0770cb758110c54078a1ad5bd136f0c6f831e85be6c059fd44ea542577ef 2280 Packages
+ 6b5953831aef4a9de9a9d8869dcb34c2d4806ba0652285b710fd12cc2567fcda 1151 Packages.bz2
+ 2b41adda7517c92dd16eeb9a386045c8a140105dfa8319c5e891d7fdcc545c57 1041 Packages.gz
+SHA512:
+ ccdbfea8fa14d4994eda8150c8b1f043d4fd8fdaf9973e325204b18175aeffecb00edcbcc1e92ea27547fdce433d9bfba0785c632bfb1a25d9235e1d98eadcf2 2280 Packages
+ de3cb3debb2bb85c57aa99ff829c2ce70b165267f27156243f4bcbb41903f095335d8a56b2a2eb3fb0ef25e7cca10210eb5ff41d68624d8d92ddd22b7b69b810 1151 Packages.bz2
+ c79dcb3c2a348fde498d57bfaebee0f72c43bf12b5e33f070490fa3357058a750f416c22ef48a71d36f13e14c347dad3b3dc94be715925586c10474b30055d83 1041 Packages.gz
